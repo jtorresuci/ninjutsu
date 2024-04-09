@@ -1,0 +1,28 @@
+# Dependency directories
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Environment file (if you have sensitive information)
+.env
+
+# IDE/Editor specific files
+*.idea
+*.vscode
+*.DS_Store
+
+# Logs and temporary files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+pnpm-debug.log*
+
+# Other files and folders you may want to ignore
+.DS_Store
+Thumbs.db
+.cache
+coverage
+
